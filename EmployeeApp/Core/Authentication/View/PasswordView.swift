@@ -2,7 +2,7 @@
 //  PasswordView.swift
 //  EmployeeApp
 //
-//  Created by Monica Reta on 10/22/24.
+//  Created by Monica Auriemma on 10/22/24.
 //
 
 import SwiftUI
