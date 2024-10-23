@@ -15,6 +15,9 @@ Config.xcconfig
 # Firebase Config
 *.plist
 
+# XCodeProj
+*.xcodeproj
+
 # Logs
 *.log
 
